@@ -1,2 +1,1 @@
-# Insanitariume.github.io 
-"# starwars-names" 
+# starwars-names
